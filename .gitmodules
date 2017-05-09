@@ -1,0 +1,3 @@
+[submodule "src/rocky/sui"]
+	path = src/rocky/sui
+	url = https://github.com/m0n1s/pebble-sui.git
