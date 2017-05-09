@@ -1,0 +1,24 @@
+{
+    "author": "simon@priskon.de",
+    "dependencies": {},
+    "keywords": [],
+    "name": "blue",
+    "pebble": {
+        "displayName": "BLUE",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "687ee9cf-11bd-4777-8582-a34646a41ebd",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
